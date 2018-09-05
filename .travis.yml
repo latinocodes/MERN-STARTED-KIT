@@ -3,5 +3,5 @@ rvm:
  - 8.11
  - node_js
 
- script: 
-    echo "npm test temporarily disabled"
+ noscript: 
+    npm test
