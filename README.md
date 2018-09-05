@@ -1,5 +1,7 @@
 # MERN - Stack Started Kit
 
+[![build status of master](https://travis-ci.org/latinocodes/mern-started-kit.svg?branch=master)](https://travis-ci.org/latinocodes/mern-started-kit)
+
 A simple application with Webpack, Babel, and Nodemon configuration to check development environment setup for React-Node-Express-MongoDB based web application development.
 
 #### What you need to run this code
